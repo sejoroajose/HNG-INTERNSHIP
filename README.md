@@ -25,7 +25,7 @@ This is a simple REST API built with Go using the Gorilla Mux router. The API pr
 {
     "email": "ajosesejoro@gmail.com",
     "current_datetime": "2024-01-31T15:04:05Z",
-    "github_url": "https://github.com/sejoroajose/HNG-INTERNSHIP/Task_0"
+    "github_url": "https://github.com/sejoroajose/HNG-INTERNSHIP"
 }
 ```
 
@@ -39,19 +39,15 @@ This is a simple REST API built with Go using the Gorilla Mux router. The API pr
    ```sh
    git clone https://github.com/sejoroajose/HNG-INTERNSHIP.git
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd HNG-INTERNSHIP/Task_0
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```sh
    go mod tidy
    ```
-4. Run the server:
+3. Run the server:
    ```sh
    go run main.go
    ```
-5. The API will be available at:
+4. The API will be available at:
    ```sh
    http://localhost:8080/api/user
    ```
