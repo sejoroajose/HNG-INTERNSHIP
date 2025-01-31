@@ -27,7 +27,7 @@ This is a simple REST API built with Go using the Gorilla Mux router. The API pr
 {
     "email": "ajosesejoro@gmail.com",
     "current_datetime": "2024-01-31T15:04:05Z",
-    "github_url": "https://github.com/sejoroajose/HNG-INTERNSHIP/Task_0"
+    "github_url": "https://github.com/sejoroajose/HNG-INTERNSHIP"
 }
 ```
 
