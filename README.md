@@ -57,5 +57,5 @@ This is a simple REST API built with Go using the Gorilla Mux router. The API pr
    ```
 
 ## Want to hire a Backend Developer?
-[https://hng.tech/hire/golang-developers](Hire backend Golang dev)
+[https://hng.tech/hire/golang-developers] (Hire backend Golang dev)
 
