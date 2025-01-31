@@ -21,7 +21,7 @@ func getUserInfo(w http.ResponseWriter, r *http.Request){
     user := User{
         Email:  "ajosesejoro@gmail.com",
         Current_datetime: time.Now().Format(time.RFC3339),
-        Github_url: "https://github.com/sejoroajose/HNG-INTERNSHIP/Task_0", 
+        Github_url: "https://github.com/sejoroajose/HNG-INTERNSHIP/", 
     }
 
     w.Header().Set("content-Type", "application/json")
